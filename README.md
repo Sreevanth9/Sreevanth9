@@ -2,37 +2,11 @@
 
 # Hi, I'm Sreevanth Vadlamudi 👋
 
-### Software Developer • MERN Stack Developer • Backend Engineering
+## Software Developer | MERN Stack Developer | Backend Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Backend+Engineering+%7C+REST+API+Development;Java+%7C+JavaScript+%7C+MERN+Stack;Scalable+Full-Stack+Applications;AI-Powered+Systems+%7C+Gemini+API;Data+Structures+%26+Algorithms;Focused+on+Production-Ready+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineering+%7C+REST+API+Development;Java+%7C+JavaScript+%7C+MERN+Stack;Scalable+Full-Stack+Applications;AI-Powered+Systems+%7C+Gemini+API;Focused+on+Production-Ready+Software" alt="Typing SVG" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Sreevanth9&style=for-the-badge&color=blueviolet" />
-
-</div>
-
----
-
-# 💻 About Me
-
-```yaml
-Name        : Sreevanth Vadlamudi
-Role        : Software Developer
-Education   : B.Tech Computer Science Engineering
-Focus Areas : Backend Engineering • Full-Stack Development
-Tech Stack  : MERN Stack • REST APIs • MongoDB • Java
-```
-
-Computer Science undergraduate focused on backend engineering, scalable full-stack applications, and API development using modern technologies. Strong foundations in Java, JavaScript, Data Structures & Algorithms, Object-Oriented Programming, and database systems.
-
-Experienced in developing AI-integrated applications, optimization systems, authentication workflows, and RESTful backend services. Interested in solving real-world engineering problems through clean architecture, scalable systems, and production-oriented software development.
-
----
-
-# 🌐 Portfolio & Profiles
-
-<div align="center">
+<br><br>
 
 <a href="https://sreevanth-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -58,35 +32,51 @@ Experienced in developing AI-integrated applications, optimization systems, auth
 
 ---
 
+# 💻 About Me
+
+```yaml
+Name        : Sreevanth Vadlamudi
+Role        : Software Developer
+Education   : B.Tech Computer Science Engineering
+Speciality  : Full-Stack Development & Backend Engineering
+Tech Stack  : MERN Stack • REST APIs • MongoDB • Java
+```
+
+Computer Science undergraduate with strong foundations in backend engineering, scalable web applications, REST API development, and database systems. Skilled in Java, JavaScript, MERN Stack, Data Structures & Algorithms, and Object-Oriented Programming.
+
+Focused on building production-oriented applications with clean architecture, authentication workflows, database integration, and AI-powered features. Interested in solving real-world engineering problems using modern software technologies and scalable system design.
+
+---
+
 # 🛠️ Technical Skills
 
 <div align="center">
 
-### Programming Languages
+## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,js,c,cpp&theme=dark" />
 
----
+<br><br>
 
-### Frontend Development
+## Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" />
 
----
+<br><br>
 
-### Backend Development
+## Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
----
+<br><br>
 
-### Databases
+## Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
 
----
+<br><br>
 
-### Tools & Platforms
+## Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
 
@@ -94,87 +84,41 @@ Experienced in developing AI-integrated applications, optimization systems, auth
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
+
+---
 
 ## 🦷 AI-Powered Dental Diagnosis System
 
-```diff
-+ MERN Stack Application
-+ Gemini API Integration
-+ Authentication Workflow
-+ REST API Backend
-```
+### MERN Stack • Gemini API • REST APIs • Authentication
 
 Developed a full-stack healthcare platform for dental symptom analysis and appointment booking using React.js, Node.js, Express.js, and MongoDB.
 
-Integrated Google Gemini API for AI-powered chatbot interaction and intelligent symptom analysis workflows. Implemented backend APIs, secure authentication systems, and scalable database integration.
+Integrated Google Gemini API to provide AI-powered chatbot interaction and intelligent symptom analysis. Implemented secure authentication workflows, backend APIs, and scalable database integration for real-time application management.
 
 ### Tech Stack
 
 `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Gemini API`
 
-🔗 Project Link:  
+🔗 Project Link  
 https://lovable.dev/projects/82e35e1c-3c12-42b8-91df-1923926195fd
 
 ---
 
 ## 🚗 EV Route Optimization System
 
-```diff
-+ Graph Optimization
-+ Shortest Path Algorithms
-+ Intelligent Routing
-+ Python-Based System
-```
+### Graph Algorithms • Python • Optimization Systems
 
-Developed an intelligent EV routing platform using graph optimization and shortest path algorithms.
+Built an intelligent EV routing platform using shortest path algorithms and graph optimization techniques for route planning and charging station management.
 
-Implemented Floyd–Warshall, Bellman–Ford, Johnson’s Algorithm, and Yen’s K-Shortest Path Algorithm to optimize route computation and charging station planning workflows.
+Implemented Floyd–Warshall, Bellman–Ford, Johnson’s Algorithm, and Yen’s Algorithm to optimize route computation and alternative path generation.
 
 ### Tech Stack
 
 `Python` • `Algorithms` • `Graphs` • `Optimization`
 
-🔗 GitHub Repository:  
+🔗 GitHub Repository  
 https://github.com/Sreevanth9/EVRouteOptimizer
-
----
-
-## 🔍 SketchForce AI
-
-```diff
-+ AWS Rekognition
-+ JavaFX Application
-+ Spring Boot Backend
-+ Secure Authentication
-```
-
-Built a forensic suspect identification system using AWS Rekognition for face recognition workflows.
-
-Developed backend services using Spring Boot and integrated JavaFX desktop workflows with SQLite database management.
-
-### Tech Stack
-
-`JavaFX` • `Spring Boot` • `AWS Rekognition` • `SQLite`
-
----
-
-## 📄 OCR using Hidden Markov Models
-
-```diff
-+ OCR Workflow
-+ Hidden Markov Models
-+ Pattern Recognition
-+ Feature Extraction
-```
-
-Developed an OCR system for Malayalam character recognition using Hidden Markov Models and Gabor feature extraction techniques.
-
-Worked on preprocessing pipelines, classification workflows, and recognition optimization systems.
-
-### Tech Stack
-
-`Python` • `HMM` • `OCR` • `Pattern Recognition`
 
 ---
 
@@ -188,19 +132,8 @@ Worked on preprocessing pipelines, classification workflows, and recognition opt
 | Claude Code 101 | Anthropic |
 | Ultimate Web Development Course 2026 | Udemy |
 | Java Programming: Beginner to Master | Udemy |
-| C and C++ (Beginner to Advanced) | Udemy |
 | Deloitte Data Analytics Job Simulation | Deloitte |
 | JPMorgan Software Engineering Virtual Experience | JPMorgan Chase & Co. |
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreevanth9&theme=tokyo-night" />
 
 </div>
 
@@ -232,6 +165,6 @@ Worked on preprocessing pipelines, classification workflows, and recognition opt
 
 <div align="center">
 
-### Building scalable and production-oriented software systems
+## Open to Software Development, Backend Engineering, and Full-Stack Developer Opportunities
 
 </div>
