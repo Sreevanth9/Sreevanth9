@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sreevanth Vadlamudi 👋
+# Hi, I'm Sreevanth Vadlamudi
 
 ### Software Developer | MERN Stack Developer | Backend Engineering
 
@@ -32,7 +32,7 @@
 
 ---
 
-# 💻 About Me
+# About Me
 
 ```yaml
 Name        : Sreevanth Vadlamudi
@@ -52,39 +52,50 @@ Focused on building production-oriented applications with clean architecture, au
 
 <div align="center">
 
-## Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,c,cpp&theme=dark" />
-
-<br><br>
-
-## Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" />
-
-<br><br>
-
-## Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-<br><br>
-
-## Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
-
-<br><br>
-
-## Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
+| Category | Technologies |
+|---|---|
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,js,c,cpp,python&theme=dark" /> |
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" /> |
+| **Backend Development** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven&theme=dark" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark" /> |
+| **Cloud & AI Tools** | <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" /> |
+| **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,npm&theme=dark" /> |
+| **Data & Analytics** | <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" /> |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# Core Concepts
+
+<div align="center">
+
+`Data Structures & Algorithms`
+`Object-Oriented Programming`
+`REST API Development`
+`Authentication & Authorization`
+`Backend Architecture`
+`Database Design`
+`Full-Stack Development`
+`System Design`
+`Problem Solving`
+`API Integration`
+`Scalable Applications`
+`Graph Algorithms`
+`Optimization Techniques`
+`AI Integration`
+`Software Engineering`
+`Responsive Web Design`
+`CRUD Operations`
+`JWT Authentication`
+`MERN Stack Development`
+`Backend Engineering`
+
+</div>
+
+---
+
+# Featured Projects
 
 ---
 
@@ -136,7 +147,7 @@ Integrated AWS Rekognition with Spring Boot backend services and JavaFX frontend
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 <div align="center">
 
@@ -153,7 +164,7 @@ Integrated AWS Rekognition with Spring Boot backend services and JavaFX frontend
 
 ---
 
-# 📚 Core Concepts
+# Core Concepts
 
 <div align="center">
 
@@ -170,7 +181,7 @@ Integrated AWS Rekognition with Spring Boot backend services and JavaFX frontend
 
 ---
 
-# 📫 Contact
+# Contact
 
 <div align="center">
 
