@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Sreevanth Vadlamudi
+# Hi, I'm Sreevanth Vadlamudi 👋
 
-### Software Developer • MERN Stack Developer • Backend Engineering • AI Integration
+### Software Developer • MERN Stack Developer • Backend Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+Backend+Engineer;Java+%7C+JavaScript+%7C+MERN+Stack;REST+API+Development+%7C+MongoDB;AI-Powered+Applications+%7C+Gemini+API;Optimization+Systems+%7C+Graph+Algorithms;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Backend+Engineering+%7C+REST+API+Development;Java+%7C+JavaScript+%7C+MERN+Stack;Scalable+Full-Stack+Applications;AI-Powered+Systems+%7C+Gemini+API;Data+Structures+%26+Algorithms;Focused+on+Production-Ready+Software" alt="Typing SVG" />
 
 <br>
 
@@ -14,37 +14,19 @@
 
 ---
 
-# 🚀 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+# 💻 About Me
 
 ```yaml
 Name        : Sreevanth Vadlamudi
 Role        : Software Developer
 Education   : B.Tech Computer Science Engineering
-Speciality  : MERN Stack • Backend Systems • AI Integration
-Languages   : Java • JavaScript • C • C++
+Focus Areas : Backend Engineering • Full-Stack Development
+Tech Stack  : MERN Stack • REST APIs • MongoDB • Java
 ```
 
-💻 Passionate about developing scalable full-stack applications and backend systems using modern technologies.
+Computer Science undergraduate focused on backend engineering, scalable full-stack applications, and API development using modern technologies. Strong foundations in Java, JavaScript, Data Structures & Algorithms, Object-Oriented Programming, and database systems.
 
-⚡ Strong foundations in:
-- REST APIs
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Backend Engineering
-- Database Systems
-
-🧠 Interested in:
-- AI-powered applications
-- System Design
-- Optimization Systems
-- Cloud-based applications
-- Scalable architectures
-
-🚀 Focused on building production-oriented applications with clean architecture and efficient backend workflows.
-
-<br clear="right"/>
+Experienced in developing AI-integrated applications, optimization systems, authentication workflows, and RESTful backend services. Interested in solving real-world engineering problems through clean architecture, scalable systems, and production-oriented software development.
 
 ---
 
@@ -76,35 +58,35 @@ Languages   : Java • JavaScript • C • C++
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
 <div align="center">
 
-## 💻 Programming Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,js,c,cpp&theme=dark" />
 
 ---
 
-## 🌐 Frontend Development
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" />
 
 ---
 
-## ⚙️ Backend Development
+### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 ---
 
-## 🗄️ Databases
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
 
 ---
 
-## 🧰 Tools & Platforms
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
 
@@ -118,20 +100,16 @@ Languages   : Java • JavaScript • C • C++
 
 ```diff
 + MERN Stack Application
-+ Gemini AI Integration
-+ AI Chatbot Workflow
-+ Appointment Management
++ Gemini API Integration
++ Authentication Workflow
++ REST API Backend
 ```
 
-🔹 Developed a full-stack healthcare platform for dental symptom analysis and appointment booking.
+Developed a full-stack healthcare platform for dental symptom analysis and appointment booking using React.js, Node.js, Express.js, and MongoDB.
 
-🔹 Integrated Google Gemini API for intelligent AI-based chatbot interaction.
+Integrated Google Gemini API for AI-powered chatbot interaction and intelligent symptom analysis workflows. Implemented backend APIs, secure authentication systems, and scalable database integration.
 
-🔹 Built authentication systems, REST APIs, backend services, and MongoDB database workflows.
-
-🔹 Focused on scalable architecture and responsive user experience.
-
-### 🚀 Tech Stack
+### Tech Stack
 
 `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Gemini API`
 
@@ -143,23 +121,17 @@ https://lovable.dev/projects/82e35e1c-3c12-42b8-91df-1923926195fd
 ## 🚗 EV Route Optimization System
 
 ```diff
-+ Graph Algorithms
-+ Shortest Path Optimization
-+ Charging Station Analysis
-+ Intelligent Routing System
++ Graph Optimization
++ Shortest Path Algorithms
++ Intelligent Routing
++ Python-Based System
 ```
 
-🔹 Developed an EV routing platform using graph optimization algorithms.
+Developed an intelligent EV routing platform using graph optimization and shortest path algorithms.
 
-🔹 Implemented:
-- Floyd–Warshall
-- Bellman–Ford
-- Johnson’s Algorithm
-- Yen’s K-Shortest Path Algorithm
+Implemented Floyd–Warshall, Bellman–Ford, Johnson’s Algorithm, and Yen’s K-Shortest Path Algorithm to optimize route computation and charging station planning workflows.
 
-🔹 Optimized shortest-path routing and charging station planning workflows.
-
-### 🚀 Tech Stack
+### Tech Stack
 
 `Python` • `Algorithms` • `Graphs` • `Optimization`
 
@@ -172,18 +144,16 @@ https://github.com/Sreevanth9/EVRouteOptimizer
 
 ```diff
 + AWS Rekognition
-+ JavaFX Desktop Application
++ JavaFX Application
 + Spring Boot Backend
-+ Face Recognition Workflow
++ Secure Authentication
 ```
 
-🔹 Built a forensic suspect identification system using AWS Rekognition.
+Built a forensic suspect identification system using AWS Rekognition for face recognition workflows.
 
-🔹 Developed backend services using Spring Boot and secure authentication workflows.
+Developed backend services using Spring Boot and integrated JavaFX desktop workflows with SQLite database management.
 
-🔹 Integrated JavaFX desktop interface and SQLite database management.
-
-### 🚀 Tech Stack
+### Tech Stack
 
 `JavaFX` • `Spring Boot` • `AWS Rekognition` • `SQLite`
 
@@ -194,33 +164,17 @@ https://github.com/Sreevanth9/EVRouteOptimizer
 ```diff
 + OCR Workflow
 + Hidden Markov Models
-+ Malayalam Character Recognition
 + Pattern Recognition
++ Feature Extraction
 ```
 
-🔹 Developed an OCR system for Malayalam character recognition using Hidden Markov Models.
+Developed an OCR system for Malayalam character recognition using Hidden Markov Models and Gabor feature extraction techniques.
 
-🔹 Implemented Gabor feature extraction and preprocessing workflows.
+Worked on preprocessing pipelines, classification workflows, and recognition optimization systems.
 
-🔹 Worked on classification pipelines and recognition optimization techniques.
-
-### 🚀 Tech Stack
+### Tech Stack
 
 `Python` • `HMM` • `OCR` • `Pattern Recognition`
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Description |
-|---|---|
-| 📄 ICIRSET 2025 | Research Publication |
-| 💻 Full Stack Projects | Built AI-integrated scalable systems |
-| ⚡ Backend Engineering | REST APIs & scalable workflows |
-
-</div>
 
 ---
 
@@ -230,38 +184,19 @@ https://github.com/Sreevanth9/EVRouteOptimizer
 
 | Certification | Organization |
 |---|---|
-| 🏅 Oracle OCI Generative AI Professional | Oracle |
-| 🤖 Claude Code 101 | Anthropic |
-| 🌐 Ultimate Web Development Course 2026 | Udemy |
-| ☕ Java Programming: Beginner to Master | Udemy |
-| 💻 C and C++ (Beginner to Advanced) | Udemy |
-| 📊 Deloitte Data Analytics Job Simulation | Deloitte |
-| 🏦 JPMorgan Software Engineering Virtual Experience | JPMorgan Chase & Co. |
+| Oracle OCI Generative AI Professional | Oracle |
+| Claude Code 101 | Anthropic |
+| Ultimate Web Development Course 2026 | Udemy |
+| Java Programming: Beginner to Master | Udemy |
+| C and C++ (Beginner to Advanced) | Udemy |
+| Deloitte Data Analytics Job Simulation | Deloitte |
+| JPMorgan Software Engineering Virtual Experience | JPMorgan Chase & Co. |
 
 </div>
 
 ---
 
-# ⚡ Areas of Interest
-
-<div align="center">
-
-```txt
-Backend Engineering
-Full-Stack Web Development
-REST API Development
-AI Integration
-Optimization Systems
-Cloud-Based Applications
-System Design
-Data Structures & Algorithms
-```
-
-</div>
-
----
-
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -271,7 +206,7 @@ Data Structures & Algorithms
 
 ---
 
-# 📫 Contact Me
+# 📫 Contact
 
 <div align="center">
 
@@ -297,8 +232,6 @@ Data Structures & Algorithms
 
 <div align="center">
 
-## ⭐ Building scalable systems with modern technologies
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/bottom_header.svg" />
+### Building scalable and production-oriented software systems
 
 </div>
