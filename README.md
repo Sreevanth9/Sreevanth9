@@ -1,80 +1,86 @@
-# Hi, I'm Sreevanth Vadlamudi 👋
+<h1 align="center">Hi, I'm Sreevanth Vadlamudi 👋</h1>
 
-Software Developer focused on Backend Engineering, MERN Stack Development, REST APIs, scalable web applications, and AI-powered systems. Passionate about building real-world software solutions using modern technologies with strong foundations in Data Structures & Algorithms, Object-Oriented Programming, and system design.
+<p align="center">
+  Software Developer • MERN Stack Developer • Backend Engineering • AI Integration
+</p>
 
-I enjoy working on full-stack applications, optimization systems, AI integrations, and backend architectures while continuously improving problem-solving and software engineering skills.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+MERN+Stack+Developer;Backend+Engineering+%7C+REST+API+Development;AI-Powered+Applications+%7C+Gemini+API;Java+%7C+JavaScript+%7C+MongoDB+%7C+Node.js;Data+Structures+%26+Algorithms;Building+Scalable+Full-Stack+Applications" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Portfolio
+# 🚀 About Me
 
-🌐 Portfolio Website:  
- [oai_citation:0‡sreevanth-portfolio.vercel.app](https://sreevanth-portfolio.vercel.app)
+- 🎓 Final-year B.Tech Computer Science student
+- 💻 Focused on Backend Engineering & Full-Stack Development
+- ⚡ Skilled in Java, JavaScript, MERN Stack, REST APIs, and MongoDB
+- 🤖 Interested in AI-powered systems and scalable applications
+- 📚 Strong foundations in Data Structures & Algorithms
+- 🔍 Exploring System Design, Cloud Integration, and Optimization Systems
+- 🚀 Building real-world projects involving AI, healthcare, and graph algorithms
 
-📄 Resume:  
- [oai_citation:1‡drive.google.com](https://drive.google.com/file/d/1LVL2ymLAnRla6PusFDOXh3G_RS4-jebv)
+---
 
-💼 LinkedIn:  
- [oai_citation:2‡linkedin.com](https://linkedin.com/in/sreevanth-vadlamudi)
+# 🌐 Portfolio & Profiles
 
-💻 GitHub:  
- [oai_citation:3‡github.com](https://github.com/Sreevanth9)
+<p align="center">
+
+<a href="https://sreevanth-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/sreevanth-vadlamudi">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Sreevanth9">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:vsreevanth@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/file/d/1LVL2ymLAnRla6PusFDOXh3G_RS4-jebv/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 # 🛠️ Tech Stack
 
-## Programming Languages
+<h3>Programming Languages</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,c,cpp&theme=dark" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h3>Frontend Development</h3>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" />
+</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<h3>Backend Development</h3>
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
 
-## Frontend Development
+<h3>Databases</h3>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<h3>Tools & Platforms</h3>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## Backend Development
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
----
-
-## Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
+</p>
 
 ---
 
@@ -82,43 +88,56 @@ I enjoy working on full-stack applications, optimization systems, AI integration
 
 ## 🦷 AI-Powered Dental Diagnosis System
 
-- Built a MERN stack application for dental symptom analysis and appointment management.
-- Integrated Google Gemini AI API for AI-powered chatbot workflows and symptom-based responses.
-- Developed authentication systems, backend APIs, and MongoDB database integration.
+- Built a MERN stack application for dental symptom analysis and appointment booking
+- Integrated Google Gemini AI API for AI chatbot workflows
+- Developed REST APIs, authentication systems, and backend workflows
+- Implemented MongoDB database integration for scalable data management
 
-🔗 Live Demo:  
- [oai_citation:4‡lovable.dev](https://lovable.dev/projects/82e35e1c-3c12-42b8-91df-1923926195fd?utm_source=chatgpt.com)
+🔗 Project Link:  
+https://lovable.dev/projects/82e35e1c-3c12-42b8-91df-1923926195fd
 
 ---
 
 ## 🚗 EV Route Optimization System
 
-- Developed an intelligent EV routing system using graph optimization algorithms.
-- Implemented Floyd–Warshall, Bellman–Ford, Johnson’s Algorithm, and Yen’s K-Shortest Path Algorithm.
-- Optimized shortest path routing based on charging stations and traffic-aware strategies.
+- Developed an intelligent EV routing platform using graph algorithms
+- Implemented Floyd–Warshall, Bellman–Ford, Johnson’s, and Yen’s Algorithms
+- Optimized route planning using shortest path and charging station analysis
+- Built algorithmic workflows for efficient route computation
 
 🔗 GitHub Repository:  
- [oai_citation:5‡github.com](https://github.com/Sreevanth9/EVRouteOptimizer?utm_source=chatgpt.com)
+https://github.com/Sreevanth9/EVRouteOptimizer
 
 ---
 
 ## 🔍 SketchForce AI
 
-- Developed a forensic suspect identification system using AWS Rekognition and JavaFX.
-- Built secure authentication workflows and backend integrations using Spring Boot.
-- Implemented face recognition workflows and database management using SQLite.
+- Built a forensic suspect identification system
+- Integrated AWS Rekognition for face recognition workflows
+- Developed secure authentication and backend workflows using Spring Boot
+- Used JavaFX for desktop interface and SQLite for database management
 
 ---
 
 ## 📄 OCR using Hidden Markov Models
 
-- Developed an OCR system for Malayalam character recognition using Hidden Markov Models.
-- Implemented feature extraction using Gabor filters for improved recognition accuracy.
-- Worked on preprocessing, classification, and pattern recognition workflows.
+- Developed OCR workflows for Malayalam character recognition
+- Used Hidden Markov Models and Gabor feature extraction
+- Implemented preprocessing and classification pipelines
+- Worked on document recognition and pattern analysis systems
 
 ---
 
-# 📚 Certifications
+# 🏆 Achievements
+
+- 🥈 Meta Hacker Cup 2025 — Advanced to Round 2
+- 📄 ICIRSET 2025 — Research Publication
+- 💻 Built multiple AI-integrated and full-stack software systems
+- 📚 Strong foundation in DSA, Backend Engineering, and REST APIs
+
+---
+
+# 📜 Certifications
 
 - Oracle OCI Generative AI Professional — Oracle
 - Claude Code 101 — Anthropic
@@ -130,35 +149,67 @@ I enjoy working on full-stack applications, optimization systems, AI integration
 
 ---
 
-# 🏆 Achievements
+# 📊 GitHub Stats
 
-- Meta Hacker Cup 2025 — Advanced to Round 2
-- ICIRSET 2025 — Research Publication
-- Built multiple full-stack and AI-integrated software systems
-- Strong foundations in Data Structures & Algorithms and backend engineering
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sreevanth9&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreevanth9&layout=compact&theme=tokyonight" height="180em"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Sreevanth9&theme=tokyonight" />
+
+</p>
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreevanth9&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sreevanth9&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreevanth9&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreevanth9&theme=tokyo-night" />
+</p>
 
 ---
 
-# 📫 Contact
+# ⚡ Areas of Interest
+
+- Backend Engineering
+- Full-Stack Web Development
+- AI Integration
+- REST API Development
+- Optimization Systems
+- System Design
+- Cloud-Based Applications
+- Data Structures & Algorithms
+
+---
+
+# 📫 Contact Me
 
 📧 Email:  
 vsreevanth@gmail.com
 
 🌐 Portfolio:  
- [oai_citation:6‡sreevanth-portfolio.vercel.app](https://sreevanth-portfolio.vercel.app?utm_source=chatgpt.com)
+https://sreevanth-portfolio.vercel.app
 
 💼 LinkedIn:  
- [oai_citation:7‡linkedin.com](https://linkedin.com/in/sreevanth-vadlamudi?utm_source=chatgpt.com)
+https://linkedin.com/in/sreevanth-vadlamudi
 
 💻 GitHub:  
- [oai_citation:8‡github.com](https://github.com/Sreevanth9?utm_source=chatgpt.com)
+https://github.com/Sreevanth9
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider following my profile!
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sreevanth9&style=for-the-badge&color=blueviolet" />
+</p>
