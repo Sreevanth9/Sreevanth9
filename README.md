@@ -60,7 +60,7 @@ Focused on building production-oriented applications with clean architecture, au
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark" /> |
 | **Cloud & AI Tools** | <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" /> |
 | **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,npm&theme=dark" /> |
-| **Data & Analytics** | <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" /> |
+| **Data & Analytics** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> |
 
 </div>
 
