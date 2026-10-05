@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vadlamudi Sreevanth Chowdhary 👋
+# Hi, I'm Vadlamudi Sreevanth Chowdhary
 
 ### Software Engineer • Full-Stack Developer • Backend & Cloud Architecture
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 Name           : Vadlamudi Sreevanth Chowdhary
@@ -42,15 +42,15 @@ Education      : B.Tech in Computer Science & Engineering, Amrita Vishwa Vidyape
 Current Role   : Full Stack Developer Intern @ Trajectory Minds Software Solutions
 ```
 
-- 🔭 **Currently Engineering:** Scalable backend services with **Python FastAPI**, zero-key cloud architectures on **Google Cloud Run**, automated **CI/CD build pipelines**, and enterprise data persistence systems.
-- 🚀 **Published Researcher:** Authored and presented peer-reviewed research papers at **ICCCNT 2025 (IIT Indore)** on low-latency WebSockets/P95 telemetry and **ICIRSET 2025** on AI-assisted healthcare diagnosis systems.
-- 💡 **Passion:** Designing resilient distributed architectures, secure RESTful APIs, high-performance database layers, and AI-driven web systems.
+- **Currently Engineering:** Scalable backend services with **Python FastAPI**, zero-key cloud architectures on **Google Cloud Run**, automated **CI/CD build pipelines**, and enterprise data persistence systems.
+- **Published Researcher:** Authored and presented peer-reviewed research papers at **ICCCNT 2025 (IIT Indore)** on low-latency WebSockets/P95 telemetry and **ICIRSET 2025** on AI-assisted healthcare diagnosis systems.
+- **Passion:** Designing resilient distributed architectures, secure RESTful APIs, high-performance database layers, and AI-driven web systems.
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### 🚀 **Full Stack Developer Intern** — *Trajectory Minds Software Solutions*
+### **Full Stack Developer Intern** — *Trajectory Minds Software Solutions*
 *(September 2026 – Present | Remote)*
 - Engineered full-stack web workflows powered by high-performance **Python FastAPI** backend services and responsive client interfaces.
 - Architected enterprise inquiry & lead capture systems with dual persistence across **Firebase Firestore** and **Google Sheets API**.
@@ -58,14 +58,14 @@ Current Role   : Full Stack Developer Intern @ Trajectory Minds Software Solutio
 - Automated end-to-end container builds and deployments using **GitHub Actions → Google Cloud Build → Google Artifact Registry → Cloud Run**.
 - Implemented backend security hardening: Pydantic validation, honeypot anti-spam defense, formula injection escaping, and lazy connection initializations.
 
-### 🛰️ **Research & Software Development Intern** — *India Space Lab*
+### **Research & Software Development Intern** — *India Space Lab*
 *(May 2026 – June 2026 | Remote)*
 - Developed an ISRO-inspired **CanSat Ground Control Software (GCS)** utilizing **React.js**, **Three.js** (3D attitude visualization), and **Leaflet.js** for real-time mission mapping and telemetry parsing.
 - Implemented Python-based **PID Controller Tuning** and autonomous navigation algorithms for aerospace engineering applications.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -82,34 +82,34 @@ Current Role   : Full Stack Developer Intern @ Trajectory Minds Software Solutio
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🌾 [IntelliFarm AI – Smart Cloud Agriculture Platform](https://intellifarm-ai.vercel.app)
+### [IntelliFarm AI – Smart Cloud Agriculture Platform](https://intellifarm-ai.vercel.app)
 - **Stack:** `React.js` • `Node.js` • `Express.js` • `AWS S3` • `Groq Vision AI` • `Supabase`
 - Cloud-native smart agriculture platform offering automated crop disease diagnosis via vision LLMs, real-time weather analytics, and direct-to-S3 pre-signed image upload pipelines.
 - [🔗 GitHub Repository](https://github.com/Sreevanth9/IntelliFarm-AI)
 
-### 🦷 [AI-Powered Dental Diagnosis Platform (Dentiginee)](https://dentiginee.lovable.app)
+### [AI-Powered Dental Diagnosis Platform (Dentiginee)](https://dentiginee.lovable.app)
 - **Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Chatbot AI`
 - Intelligent healthcare system featuring AI symptom triage, appointment scheduling, automated doctor availability management, and role-based access control.
 - [📄 Scopus Research Paper Published at ICIRSET 2025](https://sreevanth-portfolio.vercel.app/documents/teledentistry-ai-paper.pdf) • [🔗 GitHub Repository](https://github.com/Sreevanth9/dentiginee)
 
-### 💬 [Real-Time Web Chat with Live Performance Telemetry](https://github.com/Sreevanth9/chat-websocket)
+### [Real-Time Web Chat with Live Performance Telemetry](https://github.com/Sreevanth9/chat-websocket)
 - **Stack:** `Socket.IO` • `Node.js` • `Express.js` • `WebSocket` • `Distributed Systems`
 - Low-latency full-duplex communication platform with room management, message persistence, and live P95 latency dashboards.
 - [📄 Research Paper Presented at IEEE ICCCNT 2025 (IIT Indore)](https://sreevanth-portfolio.vercel.app/documents/real-time-chat-paper.pdf)
 
-### 🔍 [SketchForce AI – Forensic Suspect Identification System](https://github.com/Sreevanth9/Sketch-Force-AI)
+### [SketchForce AI – Forensic Suspect Identification System](https://github.com/Sreevanth9/Sketch-Force-AI)
 - **Stack:** `Java` • `JavaFX` • `OpenCV` • `AWS Rekognition` • `AWS S3` • `SQLite`
 - Forensic suspect matching platform featuring facial recognition comparison, OTP-verified authentication, and digital evidence storage.
 
-### 🛰️ [CanSat Ground Control Station](https://github.com/Sreevanth9/cansat-gcs)
+### [CanSat Ground Control Station](https://github.com/Sreevanth9/cansat-gcs)
 - **Stack:** `React.js` • `Three.js` • `Leaflet.js` • `Chart.js` • `Telemetry`
 - Real-time ground station interface featuring 3D satellite attitude rendering, live sensor charts, and mission map plotting.
 
 ---
 
-## 📚 Research Publications
+## Research Publications
 
 - **Teledentistry Enhancement Through AI-Based Image Classification and Patient Scheduling Framework**  
   *International Conference on Interdisciplinary Research in Science, Engineering, and Technology (ICIRSET 2025) — Scopus-Indexed*
@@ -118,7 +118,7 @@ Current Role   : Full Stack Developer Intern @ Trajectory Minds Software Solutio
 
 ---
 
-## 📜 Key Certifications
+## Key Certifications
 
 - 🤖 **Oracle Cloud Infrastructure Certified Generative AI Professional** — *Oracle (2025)*
 - ⚡ **Claude Code 101 & Claude 101** — *Anthropic (2026)*
@@ -130,7 +130,7 @@ Current Role   : Full Stack Developer Intern @ Trajectory Minds Software Solutio
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
